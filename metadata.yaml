@@ -1,0 +1,34 @@
+_repo: Comedia-do-Campo-volume-III-Scenas-do-Minho_63034
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Moreno, Bento
+    aliases:
+    - Queiros, Francisco Teixeira de
+    - Queiroz, Teixeira de
+    - Queirós, Francisco Teixeira de
+    birthdate: 1848
+    deathdate: 1919
+    gutenberg_agent_id: '52199'
+    url: http://www.gutenberg.org/2009/agents/52199
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Francisco_Teixeira_de_Queiroz
+    - https://pt.wikipedia.org/wiki/Francisco_Teixeira_de_Queir%C3%B3s
+  - agent_name: Queiroz, Francisco Teixeira de
+    gutenberg_agent_id: '52241'
+    url: http://www.gutenberg.org/2009/agents/52241
+description: ''
+gutenberg_issued: '2020-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63034'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Comedia do Campo volume III
+
+  (Scenas do Minho)'
+url: http://www.gutenberg.org/ebooks/63034
